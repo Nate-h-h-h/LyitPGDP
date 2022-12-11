@@ -1,0 +1,9 @@
+# create dicitonary
+my_dictionary = {"Fname":Nathan", "Sname":"Hand", "Occupation":"DCO"}
+print (my_dictionary)
+#Add key value pair
+my_dictionary["Pay"] = "Not enough"
+print(my_dictionary)
+#Edit a value
+my_dictionary{"Occupation"} = "Doctor"
+print{my_dictionary}
