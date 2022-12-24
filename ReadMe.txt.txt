@@ -1,0 +1,5 @@
+This repo on GitHub is with my Python walkthrough work that has me creating a test branch and merging it back into the main repo. A branch in Git is a separate copy of my repository that allows you to make changes to my code without affecting the main branch. This is useful for testing out new features or fixing bugs without impacting the stability of the main codebase.
+I can use the test branch to try out a new feature or make changes to my code, and then merge those changes back into the main branch once you I am satisfied with the results.
+Using a test branch and GitHub's version control features would allow me to experiment with my code and make changes safely, without worrying about breaking anything in the main branch. It also would allow me to collaborate with other developers and share my work with the broader community through the platform.
+Overall, my first-time using GitHub with my python code samples was a valuable learning experience that introduced you to version control and collaboration tools. It allowed you to safely make changes to my code, collaborate with others, and share my work with the community.
+
